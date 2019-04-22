@@ -3,4 +3,7 @@
     <string name="currency">Текущий курс EUR к RUB</string>
     <string name="eurtorub"><![CDATA[EUR -> RUB]]></string>
     <string name="rubtoeur"><![CDATA[RUB -> EUR]]></string>
+    <string name="error_message">Ошибка подключения</string>
+    <string name="error_message_cur">Ошибка</string>
+    <string name="repeat_connect">Повторить подключение</string>
 </resources>
