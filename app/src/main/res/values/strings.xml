@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Currency converter</string>
+    <string name="app_name">Currency Converter</string>
     <string name="currency">Текущий курс EUR к RUB</string>
     <string name="eurtorub"><![CDATA[EUR -> RUB]]></string>
     <string name="rubtoeur"><![CDATA[RUB -> EUR]]></string>
